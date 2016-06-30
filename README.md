@@ -1,5 +1,5 @@
-# Applicaster assignment : Instalation guide
-Auther: shimi bar.
+# Applicaster assignment : Installation guide
+Author: shimi bar.
 
 Folder contain server based on Koa.js v2.0. System use MongoDb as database service and babel node for compiling ES6 to ES5.
 
@@ -17,7 +17,7 @@ Folder contain server based on Koa.js v2.0. System use MongoDb as database servi
 ### Tech
 
 
-* [Node.js] - evented I/O for the backend
+* [Node.js] - Event-driven I/O server-side JavaScript environment based on V8.
 * [Koa.js] - fast node.js network app framework
 * [mongo] - noSQL database
 * [babel] - compiler for ES6 syntax
