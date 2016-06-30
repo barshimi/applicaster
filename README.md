@@ -53,7 +53,7 @@ Run MongoDB
 ```sh
 $ mongod  --dbpath /root/to/applicaster/db
 ```
-If you have problem with your db folder and database, you should follow those steps, after installing npm dependencies
+After installing npm dependencies, you should setup tweets and userscollections
 ```sh
 $ rm -rf root/to/applicaster/db/
 $ npm run mongo:dump
