@@ -53,7 +53,7 @@ Run MongoDB
 ```sh
 $ mongod  --dbpath /root/to/applicaster/db
 ```
-After installing npm dependencies, you should setup tweets and userscollections
+After installing npm dependencies, you should setup tweets and users collections
 ```sh
 $ rm -rf root/to/applicaster/db/
 $ npm run mongo:dump
