@@ -1,3 +1,6 @@
+
+[![npm](https://img.shields.io/npm/v/:package.svg?style=plastic)](https://github.com/barshimi/applicaster)
+
 # Applicaster assignment : Installation guide
 Author: shimi bar.
 
